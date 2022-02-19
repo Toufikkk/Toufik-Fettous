@@ -25,6 +25,9 @@
     .site-main > .services-area .services{
         width: 13rem;
     }
+    body {
+        overflow-x: hidden; 
+    }
 
 }
 
@@ -62,6 +65,9 @@
         width: 20rem;
         margin: 5%;
     }
+    body {
+        overflow-x: hidden; 
+    }
 }
 
 
@@ -81,6 +87,8 @@
     .site-main .about-area{
         padding: 3% 4%;
     }
-
+    body {
+        overflow-x: hidden; 
+    }
 
 }
