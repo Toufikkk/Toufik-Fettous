@@ -16,7 +16,7 @@ html {
 	scroll-behavior: smooth;
 }
 
-body, head {
+body, main {
     overflow-x: hidden;
 }
 
@@ -28,7 +28,7 @@ body, head {
 
 .header_area .main-menu .navbar{
     padding: 1rem 20rem;
-    position: sticky;
+    
     
     
 }
