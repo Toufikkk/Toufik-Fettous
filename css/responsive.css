@@ -3,6 +3,9 @@
 
 /* if the viewport is equal to 340px or less than that */ 
 @media only screen and (max-width: 340px){
+    body {
+        overflow-x: hidden; 
+    }
     .header_area .main-menu .navbar,
     .header_area .main-menu .navbar .navbar-brand,
     .site-main .subscribe-us-area .subscribe .subscribe-title,
@@ -25,15 +28,15 @@
     .site-main > .services-area .services{
         width: 13rem;
     }
-    body {
-        overflow-x: hidden; 
-    }
 
 }
 
 
 /* if the viewport is equal to 340px or less than that */ 
 @media only screen and (max-width: 792px){
+    body {
+        overflow-x: hidden; 
+    }
     .site-main .about-area .about-title h2 > span{
         font-size: 31px;
         letter-spacing: 10px;
@@ -65,15 +68,15 @@
         width: 20rem;
         margin: 5%;
     }
-    body {
-        overflow-x: hidden; 
-    }
 }
 
 
 
 /* if the viewport is equal to 1910px or less than that */ 
 @media only screen and (max-width: 1910px){
+    body {
+        overflow-x: hidden; 
+    }
     .header_area .main-menu .navbar{
         padding: 1rem;
     }
@@ -87,8 +90,6 @@
     .site-main .about-area{
         padding: 3% 4%;
     }
-    body {
-        overflow-x: hidden; 
-    }
+
 
 }
